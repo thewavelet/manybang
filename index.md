@@ -3,10 +3,10 @@
 
 
 
-# [안드로이드앱 받으러 가기](https://github.com/thewavelet/manybang/edit/master/index.md)
+# [안드로이드앱 받으러 가기](https://github.com/thewavelet/manybang)
 
 
-# [아이폰 앱 받을 가기](https://github.com/thewavelet/manybang/edit/master/index.md)
+# [아이폰 앱 받을 가기](https://github.com/thewavelet/manybang)
 
 
 

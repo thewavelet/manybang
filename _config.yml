@@ -2,5 +2,8 @@ theme: jekyll-theme-merlot
 locale: "ko-KR"
 title: "만방"
 description: "쉽고 편리한 부동산 관리 앱"
-show-downloads: "false"
+show-downloads: "true"
+github:
+  android_url: "http://naver.com"
+  ios_url: "http://daum.net"
 
